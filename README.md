@@ -1,9 +1,9 @@
 <!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=54ffc2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Saurabh+Rana+👋;Data+Science+%7C+Machine+Learning+%7C+AI+Enthusiast;Building+Intelligent+Systems+with+AI+%26+ML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=54ffc2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+𝓢𝓪𝓾𝓻𝓪𝓫𝓱+𝓡𝓪𝓷𝓪+👋;𝓓𝓪𝓽𝓪+𝓢𝓬𝓲𝓮𝓷𝓬𝓮+%7C+𝓜𝓪𝓬𝓱𝓲𝓷𝓮+𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰+%7C+𝓐𝓘+𝓔𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽;𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰+𝓘𝓷𝓽𝓮𝓵𝓵𝓲𝓰𝓮𝓷𝓽+𝓢𝔂𝓼𝓽𝓮𝓶𝓼+𝔀𝓲𝓽𝓱+𝓐𝓘+%26+𝓜𝓛)](https://git.io/typing-svg)
 
 ---
 
-## 🌟 About Me
+## 🌟 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 - 🎓 Final-year **B.Tech student** specializing in Artificial Intelligence & Machine Learning 
 - 🔭 Currently working on: **Artificial Intelligence, Machine Learning, Deep Learning and Data Science**  
 - 🌱 Exploring: **Deep Learning, NLP, CI/CD in ML projects**  
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
@@ -28,7 +28,7 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓭 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
 
 ### 🕵️ Fraud Detection System  
 - Built with **Python, TensorFlow, scikit-learn, Pandas, Flask, Docker**  
@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranasaurabh191&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranasaurabh191&layout=compact&theme=radical)
@@ -56,7 +56,7 @@
 
 ---
 
-## 🌍 Connect with Me
+## 🌍 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓜𝓮
 - [LinkedIn](https://www.linkedin.com/in/-rana-saurabh/)  
 - [Portfolio Website](https://portfoliosrb-800e0.firebaseapp.com/)  
 - [Email](mailto:ranasaurabh191@gmail.com)  
