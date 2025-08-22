@@ -1,8 +1,5 @@
-# 👋 Hi, I'm Saurabh Rana  
-### 🚀 Data Science | Machine Learning | AI Enthusiast  
-
-Welcome to my GitHub profile!  
-I’m passionate about **building intelligent systems**, solving **real-world problems with AI/ML**, and constantly learning new technologies to sharpen my skills.  
+<!-- Typing SVG Banner -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Saurabh+Rana+👋;Data+Science+%7C+Machine+Learning+%7C+AI+Enthusiast;Building+Intelligent+Systems+with+AI+%26+ML)](https://git.io/typing-svg)
 
 ---
 
@@ -48,15 +45,14 @@ I’m passionate about **building intelligent systems**, solving **real-world pr
 - Tools: **Python, scikit-learn, Pandas, Flask, Matplotlib, Seaborn**  
 🔗 [View Project](https://github.com/ranasaurabh191/Fake-News-Detection)
 
-
 ---
 
 ## 📊 GitHub Stats
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranasaurabh191&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranasaurabh191&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranasaurabh191&theme=radical)
 
 ---
 
