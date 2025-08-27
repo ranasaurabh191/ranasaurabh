@@ -30,6 +30,9 @@
 
 ## 📂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓭 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
 
+### ✨ Ai Agents  
+🔗 [View Project](https://github.com/ranasaurabh191/Ai-Agents)
+
 ### 🕵️ Fraud Detection System  
 - Built with **Python, TensorFlow, scikit-learn, Pandas, Flask, Docker**  
 - Detects fraudulent financial transactions with high accuracy.  
