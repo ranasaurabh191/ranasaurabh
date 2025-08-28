@@ -30,6 +30,13 @@
 
 ## 📂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓭 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
 
+### 🕵️ Predictive-Maintenance-PdM-Pipeline
+- Designed and Implemented an End-to-End PdM System
+- Engineered Data Ingestion and Preprocessing
+- Implemented Custom Monitoring Solution
+- Python **NumPy, Pandas, PyTorch, Scikit-learn, FastAPI, Streamlit, Matplotlib**
+🔗 [View Project](https://github.com/ranasaurabh191/Predictive-Maintenance-PdM-Pipeline)
+
 ### ✨ Ai Agents  
 🔗 [View Project](https://github.com/ranasaurabh191/Ai-Agents)
 
