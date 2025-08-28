@@ -35,26 +35,25 @@
 - Engineered Data Ingestion and Preprocessing
 - Implemented Custom Monitoring Solution
 - Python **NumPy, Pandas, PyTorch, Scikit-learn, FastAPI, Streamlit, Matplotlib**.
-
-🔗 [View Project](https://github.com/ranasaurabh191/Predictive-Maintenance-PdM-Pipeline)
+- 🔗 [View Project](https://github.com/ranasaurabh191/Predictive-Maintenance-PdM-Pipeline)
 
 ### ✨ Ai Agents  
-🔗 [View Project](https://github.com/ranasaurabh191/Ai-Agents)
+- 🔗 [View Project](https://github.com/ranasaurabh191/Ai-Agents)
 
 ### 🕵️ Fraud Detection System  
 - Built with **Python, TensorFlow, scikit-learn, Pandas, Flask, Docker**  
-- Detects fraudulent financial transactions with high accuracy.  
-🔗 [View Project](https://github.com/ranasaurabh191/Fraud-Detection-AI-ML)
+- Detects fraudulent financial transactions with high accuracy.
+- 🔗 [View Project](https://github.com/ranasaurabh191/Fraud-Detection-AI-ML)
 
 ### 🛒 E-Commerce Product Recommendation System  
 - Personalized product suggestions using ML models.  
-- Tools: **Python, scikit-learn, Pandas**  
-🔗 [View Project](https://github.com/ranasaurabh191/E-Commerce-Product-Recommendation-System)
+- Tools: **Python, scikit-learn, Pandas**
+- 🔗 [View Project](https://github.com/ranasaurabh191/E-Commerce-Product-Recommendation-System)
 
 ### 📰 Fake News Detection  
 - ML & NLP based system to identify misinformation.  
-- Tools: **Python, scikit-learn, Pandas, Flask, Matplotlib, Seaborn**  
-🔗 [View Project](https://github.com/ranasaurabh191/Fake-News-Detection)
+- Tools: **Python, scikit-learn, Pandas, Flask, Matplotlib, Seaborn**
+- 🔗 [View Project](https://github.com/ranasaurabh191/Fake-News-Detection)
 
 ---
 
