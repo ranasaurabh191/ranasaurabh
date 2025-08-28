@@ -35,6 +35,7 @@
 - Engineered Data Ingestion and Preprocessing
 - Implemented Custom Monitoring Solution
 - Python **NumPy, Pandas, PyTorch, Scikit-learn, FastAPI, Streamlit, Matplotlib**.
+
 🔗 [View Project](https://github.com/ranasaurabh191/Predictive-Maintenance-PdM-Pipeline)
 
 ### ✨ Ai Agents  
